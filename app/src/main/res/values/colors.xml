@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_red">#800000</color>
+    <color name="dark_orange">#FF8C00</color>
+    <color name="dark_gray">#333333</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="task_text">#000000</color>
+    <color name="task_color_1">#D3D3D3</color>
+    <color name="task_color_2">#FFDAB9</color>
+    <color name="task_color_3">#FFF8DC</color>
+    <color name="task_color_4">#F5DEB3</color>
+</resources>

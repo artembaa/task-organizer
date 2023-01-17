@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Планировщик задач</string>
+    <string name="tab_label_todo">Что сделать</string>
+    <string name="tab_label_doing">В процессе</string>
+    <string name="tab_label_done">Сделано</string>
+    <string name="delete_dialog_title">Удалить задачу</string>
+    <string name="delete_dialog_text">Вы точно хотите удалить эту задачу?</string>
+    <string name="delete_dialog_yes_button_label">Да</string>
+    <string name="delete_dialog_no_button_label">Нет</string>
+    <string name="new_task">Новая задача</string>
+    <string name="delete_btn_cont_desc">Корзина</string>
+    <string name="color_btn_cont_desc">Выбрать цвет задачи</string>
+    <string name="drag_btn_cont_desc">Переместить задачу вверх-вниз</string>
+    <string name="move_btn_cont_desc">Переместить задачу в следующую категорию</string>
+    <string name="btn_1_cont_desc">Первый цвет</string>
+    <string name="btn_2_cont_desc">Второй цвет</string>
+    <string name="btn_3_cont_desc">Третий цвет</string>
+    <string name="btn_4_cont_desc">Четвёртый цвет</string>
+    <string name="task_edit_text_hint">Введите задачу…</string>
+</resources>
